@@ -283,3 +283,4 @@ like the bundle itself, but suffixed with `.spdx`:
 ```text
 https://storage.googleapis.com/cri-o/artifacts/cri-o.$ARCH.$REV.tar.gz.spdx
 ```
+
